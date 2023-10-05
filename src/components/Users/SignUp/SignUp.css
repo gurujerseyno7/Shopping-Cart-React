@@ -1,0 +1,60 @@
+/* SignUp.css */
+
+/* Apply a background image related to shopping */
+
+.k {
+  background-image: url('../SignUp/backG.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 595px;
+  margin-top: -100px;
+}
+
+/* Center the form vertically and horizontally */
+.kk {
+  margin: 100px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  
+}
+
+
+/* Style the form container */
+.ppp {
+
+  background-color: rgba(255, 255, 255, 0.24); /* Semi-transparent white background */
+  padding: 30px;
+  margin-top: 17rem;
+  margin-bottom: 5rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  width: 350px;
+  
+}
+
+/* Additional styles for form elements */
+/* You can customize these styles further */
+
+
+.form-label {
+  font-weight: bold;
+  text-align: left;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.text-user{
+  text-align: left!important;
+}
+
+/* Add more styles as needed */

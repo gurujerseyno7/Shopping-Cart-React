@@ -1,0 +1,8 @@
+.n{
+    background-image: url('./leaf.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}

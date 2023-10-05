@@ -1,0 +1,28 @@
+.stockCounter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.minus{
+    background-color: red;
+    height: 40px;
+    width: 40px;
+}
+.minus:hover{
+    background-color:rgb(108, 211, 246);
+}
+.plus{
+    background-color: green;
+    height: 40px;
+    width: 40px;
+}
+
+.plus:hover{
+    background-color:rgb(74, 185, 222);
+}
+
+.text{
+    color: rgb(74, 185, 222);
+}
